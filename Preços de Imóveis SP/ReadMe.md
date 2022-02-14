@@ -1,5 +1,7 @@
 # Aplicando a biblioteca Pycaret para criar um modelo de Regressão
-
+![Badge Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter&logoColor=orange)
+![Google Colab](https://img.shields.io/badge/-Google_Colab-black?style=flat-square&logo=Google+Colab&logoColor=orange)
+![Badge Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=yellow)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Logo Kaggle" style="width:150px;"/>
 
